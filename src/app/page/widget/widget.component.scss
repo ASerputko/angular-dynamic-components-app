@@ -1,0 +1,12 @@
+:host {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+}
+
+.widget {
+  margin: 5px;
+  border: 2px solid #CCCCCC;
+  border-top: 15px solid #CCCCCC;
+}
+
